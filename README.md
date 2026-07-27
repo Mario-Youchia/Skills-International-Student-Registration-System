@@ -1,16 +1,15 @@
 # Skills International Student Registration System
 
-A C# Windows Forms application for authenticated, database-backed student registration and record management with Microsoft SQL Server.
+A C# Windows Forms application for authenticated, database student registration and record management with Microsoft SQL Server.
 
-[![Watch the student registration system demo](assets/images/demo-preview.png)](https://www.youtube.com/watch?v=REPLACE_WITH_VIDEO_ID)
+[![Watch the student registration system demo](assets/images/demo-preview.png)](https://youtu.be/F24xseEAizM)
 
 ## Features
 
-- Database-backed login with a seeded demonstration account.
+- Database-backed login.
 - Create, search, update, clear, and delete student registrations.
 - Store personal, contact, and parent details in a relational database.
 - Validate required fields, email addresses, phone numbers, gender, and date of birth.
-- Use parameterized ADO.NET commands for all database operations.
 
 ## Run
 
